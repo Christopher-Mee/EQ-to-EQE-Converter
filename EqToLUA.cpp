@@ -47,8 +47,8 @@ int main(int argc, char *argv[]) {
 
         printf("  {\n");
         printf("    name = \"%s\",\n", abrToFull);
-        printf("    gain = %lf,\n", gain);
         printf("    frequency = %lf,\n", fc);
+        printf("    gain = %lf,\n", gain);
         printf("    Q = %lf,\n", q);
         printf("  },\n");
       } else {

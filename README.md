@@ -6,4 +6,3 @@ command: EqToLUA < 'input.txt' > 'output.lua'
 * Output lua file -> iPhone location: '/var/tweak/com.r333d.eqe/db/presets/'
     
 * WARNING: The arrows are not for show, they must be included to run the program.
-* WARNING: The current release is being detected as a virus, please make the exe using your own PC.

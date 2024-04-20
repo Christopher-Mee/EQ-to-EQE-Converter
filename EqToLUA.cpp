@@ -6,7 +6,7 @@ int main(int argc, char *argv[]) {
   bool isFirstLine = true;
   char tmp[128];
   char abrvFilterName[][3] = {"LS", "HS", "PK"};
-  char fullFilterName[][20] = {"lowshelf", "highshelf", "bandpassqpeakgain"};
+  char fullFilterName[][20] = {"lowshelf", "highshelf", "eq"};
 
   while (NULL != fgets(tmp, sizeof(tmp), stdin)) {
     if (isFirstLine) {

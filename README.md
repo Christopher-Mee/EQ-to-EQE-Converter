@@ -1,5 +1,7 @@
 # EQ-to-EQE-Converter
 
+The eq repo built into eqe is outdated. Using the [new eq repo](https://github.com/iwalton3/AutoEq/tree/master) and this program you can eq your iPhone
+
 command: EqToLUA < 'input.txt' > 'output.lua'  
 
 * There is a bat file included in the release section, which allows drag and drop to run the program.
